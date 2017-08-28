@@ -1,0 +1,18 @@
+{
+  "name": "mwdelaney/wp-editor",
+  "description": "WP Editor.",
+  "keywords": ["wordpress", "plugin", "editor"],
+  "homepage": "https://github.com/mwdelaney/wp-editor",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael W. Delaney",
+      "email": "mwdelaney@thewalkergroup.com",
+      "homepage": "https://www.thewalkergroup.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2"
+  }
+}
